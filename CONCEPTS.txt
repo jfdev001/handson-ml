@@ -1,5 +1,0 @@
-Cross Validation:
-https://www.youtube.com/watch?v=7062skdX05Y
-
-Time Series CV for Future:
-https://www.youtube.com/watch?v=g9iO2AwTXyI
