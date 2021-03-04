@@ -1,5 +1,9 @@
 # Resources:
 
+## Tuning
+
+    - pg 75
+
 ## Issues:
 
     - https://github.com/ageron/handson-ml/issues/385
